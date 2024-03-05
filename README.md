@@ -32,7 +32,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Video Example
-[Video Walkthrough]()
+[Video Walkthrough](https://drive.google.com/file/d/1ECYMP6OHbhzXXzFKSpUeAdPs79J86Z-D/view)
 ## Usage
 - `npm i` to install dependencies
 - log in to mysql and run `source db/schema.sql`
